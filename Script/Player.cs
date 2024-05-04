@@ -7,7 +7,7 @@ public class Player : MonoBehaviour
 {
     private Rigidbody2D rig;
     public float movespeed = 5f;
-    public float Jump_power = 5f;
+    public float Jump_power = 10f;
     
     public float Inputx;//儲存移動數值
     public float Inputy;
